@@ -521,7 +521,7 @@
         {
             "name": "doctrine/doctrine-fixtures-bundle",
             "version": "v2.2.0",
-            "target-dir": "Doctrine/Bundle/FixturesBundle",
+            "target-dir": "Doctrine/Bundle/TOTORINO",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/DoctrineFixturesBundle.git",
